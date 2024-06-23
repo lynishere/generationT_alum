@@ -1,0 +1,43 @@
+/* Clase Carnívoros */
+.carnivoros{
+    background-color: #8B0000; 
+}
+/* Clase Herbívoros */
+.herbivoros{
+    background-color: #98FB98; 
+}
+/* ID para el T-Rex */
+#t-rex {
+    font-size: 24px;
+    color: #FFD700;
+  }
+  
+  /* ID para el Triceratops */
+  #triceratops {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  /* Clase Voladores */
+.voladores {
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  /* Clase Acuáticos */
+  .acuaticos {
+    font-style: italic;
+    color: #0000FF;
+  }
+  
+  /* Modificación de la clase Guías */
+  .guia {
+    text-align: center;
+    color: #964B00;
+  }
+  
+  /* Clase Atracciones */
+  .atraccion {
+    letter-spacing: 2px;
+    border: 1px solid #CCCCCC;
+    border-radius: 10px;
+    padding: 10px;
+  }
